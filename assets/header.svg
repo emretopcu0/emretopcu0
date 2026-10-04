@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Welcome to emretopcu0's GitHub</title>
+  <desc id="description">A dark navy profile banner with the username emretopcu0, a friendly welcome, and cyan and lavender code-inspired constellation graphics.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1427"/>
+      <stop offset="1" stop-color="#111B30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="760" y1="55" x2="1120" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#71E4EB"/>
+      <stop offset="1" stop-color="#B8A5F5"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8295B8" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect x="640" y="1" width="536" height="318" fill="url(#grid)"/>
+  <path d="M690 0 575 320M1120 0 1005 320" stroke="#AFB7D3" stroke-opacity=".045" stroke-width="72"/>
+  <path d="M76 41H1124" stroke="#7283A4" stroke-opacity=".19"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="76" y="98" fill="#71E4EB" font-size="17">hi, welcome to my github</text>
+    <text x="76" y="178" fill="#EDF2FF" font-size="70" font-weight="700" letter-spacing="-3">emretopcu0<tspan fill="#71E4EB">_</tspan></text>
+    <text x="79" y="219" fill="#9FADC8" font-size="16">Thanks for stopping by.</text>
+    <text x="76" y="282" fill="#798BAA" font-size="11" letter-spacing="2.2">GITHUB / PERSONAL PROFILE</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M753 228 808 170 905 202 1024 118 1125 181" stroke="url(#accent)" stroke-opacity=".35" stroke-width="1.5"/>
+    <path d="M808 170 788 89 880 57 1024 118 1068 259 905 202" stroke="url(#accent)" stroke-opacity=".2" stroke-width="1.5"/>
+    <path d="M788 89 905 202M880 57 808 170M1024 118 1121 54" stroke="#B8A5F5" stroke-opacity=".1"/>
+
+    <rect x="845" y="104" width="151" height="116" rx="17" fill="#111B30" stroke="url(#accent)" stroke-opacity=".65"/>
+    <path d="M845 130H996" stroke="#7386AB" stroke-opacity=".2"/>
+    <path d="m890 152-18 19 18 19m61-38 18 19-18 19m-25-44-13 51" stroke="url(#accent)" stroke-width="4"/>
+
+    <circle cx="788" cy="89" r="6" fill="#71E4EB" fill-opacity=".15" stroke="#71E4EB" stroke-width="1.5"/>
+    <circle cx="808" cy="170" r="4" fill="#71E4EB" stroke="#71E4EB"/>
+    <circle cx="753" cy="228" r="3" fill="#71E4EB" stroke="#71E4EB"/>
+    <circle cx="880" cy="57" r="3" fill="#B8A5F5" stroke="#B8A5F5"/>
+    <circle cx="1024" cy="118" r="5" fill="#B8A5F5" fill-opacity=".2" stroke="#B8A5F5" stroke-width="1.5"/>
+    <circle cx="1068" cy="259" r="6" fill="#B8A5F5" fill-opacity=".15" stroke="#B8A5F5" stroke-width="1.5"/>
+    <circle cx="1125" cy="181" r="3" fill="#B8A5F5" stroke="#B8A5F5"/>
+    <circle cx="1121" cy="54" r="3" stroke="#B8A5F5" stroke-opacity=".6"/>
+    <path d="M724 122h8m-4-4v8M1010 56h8m-4-4v8M1111 236h8m-4-4v8" stroke="#C6D4EF" stroke-opacity=".35"/>
+  </g>
+
+  <g fill="#71E4EB">
+    <circle cx="859" cy="117" r="2"/>
+    <circle cx="868" cy="117" r="2" opacity=".6"/>
+    <circle cx="877" cy="117" r="2" opacity=".3"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="23.5" fill="none" stroke="#7086AD" stroke-opacity=".2"/>
+</svg>
